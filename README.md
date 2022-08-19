@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **AleJs/Alejs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Alejandro Ramirez everything ok?
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Alejandro Ramirez everything ok? 👋
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-ramirez-11080a143/)
 
