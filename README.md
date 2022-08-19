@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I am 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 Develolper;
 
- :blue_book: :pencil2:  always looking to be up to date with current programming models;
+ :blue_book: :pencil2:  always looking to be up to date with current programming models
 
 
 ⚡ Fun fact: 
